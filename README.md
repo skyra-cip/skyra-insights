@@ -14,3 +14,4 @@ https://skyra.com.hk
 ## Connect
 - https://www.linkedin.com/company/skyra-cip/
 - https://x.com/SkyraCIP
+- https://www.crunchbase.com/organization/skyra-cip
