@@ -2,11 +2,11 @@
 
 Skyra Insights focuses on:
 
-- Commodity Intelligence
-- Petroleum Markets
-- EN590 & Jet A1 Insights
-- International B2B Connectivity
-- Digital Trade Infrastructure
+- Commodity Intelligence Platform
+- Verified Trading Network
+- fuel trading desk
+- B2B Energy Trading
+- ICPO procedure
 
 ## Official Website
 https://skyra.com.hk
