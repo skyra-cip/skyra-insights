@@ -56,6 +56,7 @@ SKYRA is a **Commodity Intelligence Platform** and **Verified B2B Network** desi
 - LNG - Global liquified gas markets
 - Crude Oil - Brent, WTI, Ural pricing
 - Precious Metals - Gold, silver, platinum
+- Other commodities - Agricultural, industrial materials
 
 ### 3. Fuel Trading Desk
 **Professional Trading Operations**
@@ -67,8 +68,10 @@ SKYRA is a **Commodity Intelligence Platform** and **Verified B2B Network** desi
 
 **Services:**
 - Spot market trading
+- Forward contracts
 - Futures execution
 - Option strategies
+- Swap arrangements
 
 ### 4. B2B Energy Trading
 **International Commodity Transactions**
@@ -119,6 +122,20 @@ SKYRA is a **Commodity Intelligence Platform** and **Verified B2B Network** desi
 - Platinum group metals
 - Industrial metals
 - Metal derivatives
+
+### Agricultural Commodities
+- Grain and cereals
+- Vegetable oils
+- Sugar and sweeteners
+- Cocoa and coffee
+- Nuts and seeds
+
+### Industrial Materials
+- Minerals and ores
+- Chemical products
+- Textiles and fibers
+- Polymers and plastics
+- Construction materials
 
 ---
 
@@ -396,7 +413,20 @@ SKYRA partners with:
 
 ---
 
-## 🔒 Security & Trust
+## 📊 Market Data Sources
+
+- Platts Energy Pricing
+- S&P Global
+- Refinitiv (Reuters)
+- Bloomberg Terminal
+- CME Group
+- ICE Data Services
+- Official government statistics
+- Industry association reports
+
+---
+
+## 🔐 Security & Trust
 
 **Your data security is our priority:**
 - 256-bit encryption
@@ -404,6 +434,7 @@ SKYRA partners with:
 - Regular security audits
 - Fraud monitoring 24/7
 - Secure backup systems
+- Insurance coverage
 
 ---
 
