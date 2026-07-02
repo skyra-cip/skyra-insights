@@ -56,7 +56,6 @@ SKYRA is a **Commodity Intelligence Platform** and **Verified B2B Network** desi
 - LNG - Global liquified gas markets
 - Crude Oil - Brent, WTI, Ural pricing
 - Precious Metals - Gold, silver, platinum
-- Other commodities - Agricultural, industrial materials
 
 ### 3. Fuel Trading Desk
 **Professional Trading Operations**
@@ -123,19 +122,7 @@ SKYRA is a **Commodity Intelligence Platform** and **Verified B2B Network** desi
 - Industrial metals
 - Metal derivatives
 
-### Agricultural Commodities
-- Grain and cereals
-- Vegetable oils
-- Sugar and sweeteners
-- Cocoa and coffee
-- Nuts and seeds
 
-### Industrial Materials
-- Minerals and ores
-- Chemical products
-- Textiles and fibers
-- Polymers and plastics
-- Construction materials
 
 ---
 
