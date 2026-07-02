@@ -7,7 +7,7 @@
 
 **SKYRA: International B2B Commodity Intelligence Platform & Digital Trading Infrastructure**
 
-SKYRA is a verified global network connecting commodity traders, suppliers, buyers, brokers, and maritime professionals. We provide comprehensive intelligence, secure transaction infrastructure, and trusted B2B connectivity for international commodity trading.
+SKYRA is a verified global network connecting commodity traders, suppliers, buyers, brokers, and maritime professionals. We provide comprehensive intelligence, secure transaction infrastructure, and market-leading trading solutions for global commodity markets.
 
 ---
 
@@ -136,6 +136,31 @@ SKYRA is a **Commodity Intelligence Platform** and **Verified B2B Network** desi
 - Textiles and fibers
 - Polymers and plastics
 - Construction materials
+
+---
+
+## 📚 Energy Market Intelligence Series
+
+### Brent Crude, WTI, and Why Benchmarks Still Matter in 2026
+
+Oil benchmarks remain the backbone of global energy pricing.
+
+#### This Research Explores:
+
+* The role of Brent Crude in international oil markets
+* How WTI influences North American pricing
+* Why benchmark spreads matter
+* Supply, logistics, and geopolitical drivers
+* Procurement and risk management implications
+
+#### Key Takeaways
+
+* Benchmarks are more than price references.
+* Brent and WTI reveal important market signals.
+* Understanding benchmark relationships improves decision-making.
+* Energy transition trends have not eliminated the need for benchmark pricing.
+
+**Published by Skyra CIP Commodity Market Intelligence**
 
 ---
 
@@ -461,4 +486,4 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ---
 
-**Version:** 1.0.0 | **Last Updated:** June 21, 2026 | **Status:** Active & Growing
+**Version:** 1.0.1 | **Last Updated:** July 2, 2026 | **Status:** Active & Growing
